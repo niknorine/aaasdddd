@@ -1,0 +1,78 @@
+[16:08:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:08:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:08:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:08:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:08:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:08:05] [main/INFO]: Reloading ResourceManager: Default
+[16:08:06] [Worker-Main-8/INFO]: Loaded 7 recipes
+[16:08:06] [Worker-Main-8/INFO]: Loaded 927 advancements
+[16:08:07] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[16:08:07] [Server thread/INFO]: Loading properties
+[16:08:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:08:07] [Server thread/INFO]: Generating keypair
+[16:08:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:08:08] [Server thread/INFO]: Using default channel type
+[16:08:12] [Server thread/INFO]: Preparing level "world"
+[16:08:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:08:13] [Server thread/INFO]: Preparing spawn area: 0%
+[16:08:13] [Server thread/INFO]: Preparing spawn area: 0%
+[16:08:13] [Server thread/INFO]: Preparing spawn area: 0%
+[16:08:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:08:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[16:08:17] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[16:08:18] [Server thread/INFO]: Preparing spawn area: 83%
+[16:08:18] [Server thread/INFO]: Time elapsed: 5980 ms
+[16:08:18] [Server thread/INFO]: Done (6.121s)! For help, type "help"
+[16:08:48] [User Authenticator #1/INFO]: UUID of player DenseNeek is 669960bd-5e6f-4d2a-b800-dfb4783f284f
+[16:08:49] [Server thread/INFO]: DenseNeek[/86.27.179.221:52360] logged in with entity id 30 at (472.08629866463866, 76.0, -1887.112254489391)
+[16:08:49] [Server thread/INFO]: DenseNeek joined the game
+[16:09:24] [Server thread/INFO]: [Server] be in the server if you like little girls
+[16:09:40] [Server thread/INFO]: [Server] yikes
+[16:13:41] [Server thread/INFO]: DenseNeek lost connection: Disconnected
+[16:13:41] [Server thread/INFO]: DenseNeek left the game
+[16:14:23] [User Authenticator #2/INFO]: UUID of player DenseNeek is 669960bd-5e6f-4d2a-b800-dfb4783f284f
+[16:14:24] [Server thread/INFO]: DenseNeek[/86.27.179.221:52464] logged in with entity id 1516 at (-15.300000011920933, 11.0, -168.63572425154211)
+[16:14:24] [Server thread/INFO]: DenseNeek joined the game
+[16:14:49] [User Authenticator #3/INFO]: UUID of player DoubleN69 is 46d080a1-b7fe-4a05-8b2d-3e8b536c0389
+[16:14:49] [Server thread/INFO]: DoubleN69[/127.0.0.1:57408] logged in with entity id 1734 at (439.57286186022986, 76.0, -1881.4827130664726)
+[16:14:49] [Server thread/INFO]: DoubleN69 joined the game
+[16:15:02] [Server thread/INFO]: DoubleN69 lost connection: Disconnected
+[16:15:02] [Server thread/INFO]: DoubleN69 left the game
+[16:15:45] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-29, y=10, z=-190} fu{x=-27, y=14, z=-193}
+[16:15:46] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-29, y=10, z=-190} fu{x=-27, y=14, z=-193}
+[16:19:10] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-65, y=16, z=-166} fu{x=-64, y=15, z=-168}
+[16:20:10] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-82, y=20, z=-166} fu{x=-82, y=18, z=-165}
+[16:23:04] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-55, y=13, z=-126} fu{x=-55, y=11, z=-126}
+[16:23:05] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=-55, y=13, z=-126} fu{x=-55, y=12, z=-125}
+[16:35:08] [Server thread/INFO]: DenseNeek has completed the challenge [Cover Me in Debris]
+[16:39:12] [User Authenticator #4/INFO]: UUID of player DoubleN69 is 46d080a1-b7fe-4a05-8b2d-3e8b536c0389
+[16:39:12] [Server thread/INFO]: DoubleN69[/127.0.0.1:57793] logged in with entity id 6419 at (458.88587933873214, 76.0, -1889.2840789549011)
+[16:39:12] [Server thread/INFO]: DoubleN69 joined the game
+[16:41:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=526, y=73, z=-1787} fu{x=526, y=72, z=-1787}
+[16:41:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=526, y=73, z=-1787} fu{x=526, y=72, z=-1787}
+[16:41:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=526, y=73, z=-1787} fu{x=526, y=72, z=-1787}
+[16:41:25] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=526, y=73, z=-1787} fu{x=526, y=72, z=-1787}
+[16:41:27] [Server thread/WARN]: Mismatch in destroy block pos: fu{x=526, y=75, z=-1787} fu{x=526, y=73, z=-1785}
+[16:46:28] [Server thread/INFO]: DoubleN69 suffocated in a wall
+[16:47:32] [Server thread/INFO]: DoubleN69 lost connection: Disconnected
+[16:47:32] [Server thread/INFO]: DoubleN69 left the game
+[16:47:35] [Server thread/INFO]: DenseNeek lost connection: Disconnected
+[16:47:35] [Server thread/INFO]: DenseNeek left the game
+[18:07:12] [Server thread/INFO]: Stopping the server
+[18:07:12] [Server thread/INFO]: Stopping server
+[18:07:12] [Server thread/INFO]: Saving players
+[18:07:12] [Server thread/INFO]: Saving worlds
+[18:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:07:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:07:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
